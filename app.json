@@ -1,0 +1,17 @@
+{
+    "name": "v2RayDataFree",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray", "Data 4g free", "Data free"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "stack": "container"
+}
